@@ -1,0 +1,40 @@
+/* @import 'bootstrap/dist/css/bootstrap.min.css'; */
+.text-black{
+    background-color: rgba(240, 255, 255, 0.225);
+}
+.cuisine{
+    margin-bottom: 3px;
+}
+#difficulty{
+    border:none;
+    color:black;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    margin-top: 3px;
+    font-size: small;
+    font-style: italic;
+    font-weight: 500;
+    padding: 3px 8px;
+}
+.text{
+    margin-bottom: 8px;
+}
+.instructions-text{
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.Happy-cooking{
+    margin: 0;
+    font-size: 17px;
+}
+
+.textingredient{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+
+.headingfood{
+    font-size: xx-large;
+    font-style: italic;
+    color: rgb(65, 11, 11);
+}
